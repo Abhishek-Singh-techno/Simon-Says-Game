@@ -4,10 +4,6 @@ A browser-based memory game where you watch a growing sequence of flashing color
 
 **[🔗 Live Demo](https://abhishek-singh-techno.github.io/Simon-Says-Game/)**
 
-![Simon Says Game Preview](preview.png)
-
----
-
 ## 🕹️ How to Play
 
 1. Press **any key** to start the game.
@@ -48,7 +44,6 @@ Simon-Says-Game/
 ├── index.html
 ├── SimonSayGame.css
 ├── SimonSayGame.js
-├── preview.png
 └── README.md
 ```
 
