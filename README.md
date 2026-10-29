@@ -69,7 +69,7 @@ cd Simon-Says-Game
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Abhishek Singh**, an aspiring front-end developer building projects to strengthen my HTML, CSS and JavaScript skills. I'm open to internship and junior developer opportunities.
+Hi, I'm **Abhishek Singh**, A front-end developer building projects to strengthen my HTML, CSS and JavaScript skills. I'm open to internship and developer opportunities.
 
 📧 [abhishekvishen08@gmail.com](mailto:abhishekvishen08@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-307162306/) · 🐙 [GitHub](https://github.com/Abhishek-Singh-techno)
 
