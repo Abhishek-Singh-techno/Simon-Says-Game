@@ -2,7 +2,7 @@
 
 A browser-based memory game where you watch a growing sequence of flashing colors and repeat it correctly to reach the next level. Built with **vanilla HTML, CSS and JavaScript**: no frameworks, no libraries.
 
-**[🔗 Live Demo](https://abhishek-singh-techno.github.io/Simon-Says-Game/)**
+**[🔗 Live Demo](https://voluble-torte-32f36e.netlify.app/)**
 
 ## 🕹️ How to Play
 
